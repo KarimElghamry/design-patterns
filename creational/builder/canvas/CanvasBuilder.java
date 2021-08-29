@@ -1,5 +1,8 @@
 package creational.builder.canvas;
 
+/**
+ * a contract used by the director to build custom Canvas's
+ */
 public interface CanvasBuilder {
     public CanvasBuilder width(Integer width);
 

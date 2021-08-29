@@ -1,5 +1,8 @@
 package creational.builder.canvas;
 
+/**
+ * A unit that decribes how a canvas should look like
+ */
 public class Canvas {
     private final Integer width;
     private final Integer height;

@@ -3,6 +3,9 @@ package creational.builder;
 import creational.builder.canvas.Canvas;
 import creational.builder.canvas.CanvasBuilder;
 
+/**
+ * A director that uses CanvasBuilder to build custom Canvas's
+ */
 public class Window {
     private Canvas canvas;
 

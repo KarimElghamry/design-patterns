@@ -1,5 +1,9 @@
 package creational.builder.canvas;
 
+/**
+ * An implementation of CanvasBuilder that does not manipulate any of the given
+ * props
+ */
 public class StandardCanvasBuilder implements CanvasBuilder {
 
     private Integer width;
