@@ -16,8 +16,7 @@ public class Window {
                 .borderColor("Pink").build();
     }
 
-    @Override
-    public String toString() {
-        return this.canvas.toString();
+    public String describeCanvas() {
+        return String.format("%dx%d %s canvas", canvas.getWidth(), canvas.getHeight(), canvas.getBackgroundColor());
     }
 }
