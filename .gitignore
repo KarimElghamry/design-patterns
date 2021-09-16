@@ -1,2 +1,5 @@
 # compiled classes
 *.class
+
+# IDE folders
+.vscode
