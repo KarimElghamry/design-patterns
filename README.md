@@ -9,6 +9,7 @@ A collection of design patterns implemented in Java and referenced from this boo
 - [Abstract Factory](./creational/abstract_factory)
 - [Builder](./creational/builder)
 - [Factory Method](./creational/factory_method)
+- [Singleton](./creational/singleton)
 
 ### [Structural Patterns](./structural)
 
