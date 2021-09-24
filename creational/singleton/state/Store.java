@@ -1,6 +1,6 @@
-package creational.singleton;
+package creational.singleton.state;
 
-class Store {
+public class Store {
     // unique instance across all of the app
     static private Store uniqueInstance;
 
@@ -13,7 +13,7 @@ class Store {
     }
 
     // point of instantiation. Should guarantee only one instance.
-    static Store instance() {
+    public static Store instance() {
         if (uniqueInstance == null) {
             uniqueInstance = new Store();
         }

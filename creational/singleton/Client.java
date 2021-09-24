@@ -1,5 +1,7 @@
 package creational.singleton;
 
+import creational.singleton.state.Store;
+
 class Client {
     public static void main(String[] args) {
         // we'll get an instance from the store
