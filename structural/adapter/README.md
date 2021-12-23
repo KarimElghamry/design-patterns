@@ -27,7 +27,7 @@ for the sake of simplicity, we'll use the class pattern in our example.
 
 ### Class Diagram
 
-![class diagram](./adapter/classDiagram.png)
+![class diagram](./classDiagram.png)
 
 ### Participants
 
