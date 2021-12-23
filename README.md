@@ -13,6 +13,7 @@ A collection of design patterns implemented in Java and referenced from this boo
 - [Prototype](./creational/prototype)
 
 ### [Structural Patterns](./structural)
+- [Adapter (wrapper)](./structural/adapter)
 
 ### [Behavioral Patterns](./behavioral)
 
