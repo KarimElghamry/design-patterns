@@ -33,4 +33,8 @@ public class Grid implements Component {
         this.children.remove(component);
         return this;
     }
+
+    public List<Component> getChildren() {
+        return this.children;
+    }
 }
