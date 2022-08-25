@@ -18,6 +18,7 @@ A collection of design patterns implemented in Java and referenced from this boo
 - [Bridge](./structural/bridge)
 - [Composite](./structural/composite)
 - [Decorator](./structural/decorator)
+- [Facade](./structural/facade)
 
 ### [Behavioral Patterns](./behavioral)
 
