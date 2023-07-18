@@ -20,6 +20,7 @@ A collection of design patterns implemented in Java and referenced from this boo
 - [Decorator](./structural/decorator)
 - [Facade](./structural/facade)
 - [Flyweight](./structural/flyweight)
+- [Proxy](./structural/proxy)
 
 ### [Behavioral Patterns](./behavioral)
 
