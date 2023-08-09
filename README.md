@@ -24,6 +24,8 @@ A collection of design patterns implemented in Java and referenced from this boo
 
 ### [Behavioral Patterns](./behavioral)
 
+- [chain of responsibility](./behavioral/chain_of_responsibility)
+
 ## Project Structure
 
 Each pattern is encapsulated in its own folder, and each pattern has its own `README.md` file. The `README.md` is structured as follows:
