@@ -25,6 +25,7 @@ A collection of design patterns implemented in Java and referenced from this boo
 ### [Behavioral Patterns](./behavioral)
 
 - [chain of responsibility](./behavioral/chain_of_responsibility)
+- [Command](./behavioral/command)
 
 ## Project Structure
 
